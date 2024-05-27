@@ -44,8 +44,7 @@ public class FCFS {
 		{
 			System.out.print(waitingTime[i]+" ");
 		}
-      
+      obj.close();
 	}
-
-    
+   
 }
